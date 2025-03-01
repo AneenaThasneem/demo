@@ -1,2 +1,2 @@
 # demo
--this is a demo for git working
+- this is a demo for git working
